@@ -9,7 +9,7 @@ SFTS (Secure File Transfer System) is a web application designed to facilitate s
 .
 └── sfts_project/
     ├── .gitignore
-    ├── backend
-    ├── frontend
+    ├── backend/
+    ├── frontend/
     └── README.md
 ```
